@@ -1,0 +1,5088 @@
+
+
+
+
+
+
+
+
+
+
+<!--목록 -->
+<div class="tbTitle">
+ 	<h4>
+		
+			
+			
+			
+			
+	        
+	        
+			전체
+		
+		&nbsp;<span class="txtCB" id="txtCB">446</span>건
+		
+			
+				
+					
+					(2022년 12월 05일)
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		
+	</h4>
+	
+	<div class="sort" >
+		
+	    	
+			
+			
+		
+		
+			
+				<a id="time" name="sort" onclick="setOrder(this);" class="downOn" href="#none" data-order="desc" title="시간 내림차순">시간</a>
+				<a id="crp" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="회사명 올림차순">회사명</a>
+				<a id="rpt" name="sort"  onclick="setOrder(this);" class="upOff" href="#none" data-order="asc" title="보고서명 올림차순">보고서명</a>
+			
+			
+			
+			
+		
+	</div>
+</div>
+<div class="tbListInner" >
+	<table class="tbList" summary="시간,공시대상회사,보고서명,제출인,접수일자,비고 순으로 되어있습니다.">
+		<caption>유가증권시장 목록</caption>
+		<colgroup>
+			<col style="width:7%">
+			<col style="width:24%">
+			<col style="width:auto">
+			<col style="width:13%">
+			<col style="width:11%">
+			<col style="width:8%">
+		</colgroup>
+		<thead>
+			<tr>
+				<th scope="row"><label for="inpSample00">시간</label></th>
+				<th scope="row"><label for="inpSample00">공시대상회사</label></th>
+				<th scope="row"><label for="inpSample00">보고서명</label></th>
+				<th scope="row"><label for="inpSample00">제출인</label></th>
+				<th scope="row"><label for="inpSample00">접수일자</label></th>
+				<th scope="row"><label for="inpSample00">비고</label></th>
+			</tr>
+		</thead>
+		
+			
+				<tbody>
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								19:00
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01222867', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="제테마 기업개황 새창" >
+										제테마
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900701"  onclick="openReportViewer('20221205900701'); return false;" id="r_20221205900701"
+									title="기타경영사항(자율공시)(품목허가 취소 및 전 제조업무정지 6개월, 회수폐기명령, 회수사실 공표명령에 대한 집행정지 잠정처분 신청 인용 결정) 공시뷰어 새창" >기타경영사항(자율공시)
+									
+		  							(품목허가 취소 및 전 제조업무정지 6개월, 회수폐기명령, 회수사실 공표명령에 대한 집행정지 잠정처분 신청 인용 결정)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="제테마">제테마</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								19:00
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01222867', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="제테마 기업개황 새창" >
+										제테마
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900700"  onclick="openReportViewer('20221205900700'); return false;" id="r_20221205900700"
+									title="기타경영사항(자율공시)(잠정 제조중지명령 및 회수폐기명령, 회수사실 공표명령에 대한 집행정지 인용결정) 공시뷰어 새창" >기타경영사항(자율공시)
+									
+		  							(잠정 제조중지명령 및 회수폐기명령, 회수사실 공표명령에 대한 집행정지 인용결정)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="제테마">제테마</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								18:22
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00861997', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="인포마크 기업개황 새창" >
+										인포마크
+									</a>
+								</span>
+								<a href="http://www.infomark.co.kr" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900698"  onclick="openReportViewer('20221205900698'); return false;" id="r_20221205900698"
+									title="유상증자또는주식관련사채등의청약결과(자율공시)(일반공모(소액공모) 유상증자) 공시뷰어 새창" >유상증자또는주식관련사채등의청약결과(자율공시)
+									
+		  							(일반공모(소액공모) 유상증자)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="인포마크">인포마크</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								18:11
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01290248', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="스코넥 기업개황 새창" >
+										스코넥
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900697"  onclick="openReportViewer('20221205900697'); return false;" id="r_20221205900697"
+									title="시설외투자등 공시뷰어 새창" >시설외투자등
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="스코넥">스코넥</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								18:08
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00273615', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="비케이탑스 기업개황 새창" >
+										비케이탑스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800694"  onclick="openReportViewer('20221205800694'); return false;" id="r_20221205800694"
+									title="기타시장안내(상장적격성 실질심사 관련 안내) 공시뷰어 새창" >기타시장안내
+									
+		  							(상장적격성 실질심사 관련 안내)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유가증권시장본부">유가증권시장본부</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								18:05
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00273615', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="비케이탑스 기업개황 새창" >
+										비케이탑스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800679"  onclick="openReportViewer('20221205800679'); return false;" id="r_20221205800679"
+									title="불성실공시법인지정 공시뷰어 새창" >불성실공시법인지정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유가증권시장본부">유가증권시장본부</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								18:01
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01091382', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="세토피아 기업개황 새창" >
+										세토피아
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900677"  onclick="openReportViewer('20221205900677'); return false;" id="r_20221205900677"
+									title="유상증자또는주식관련사채등의청약결과(자율공시) 공시뷰어 새창" >유상증자또는주식관련사채등의청약결과(자율공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="세토피아">세토피아</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00156859', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="다올투자증권 기업개황 새창" >
+										다올투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000420"  onclick="openReportViewer('20221205000420'); return false;" id="r_20221205000420"
+									title="증권신고서(기타파생결합사채) 공시뷰어 새창" >증권신고서(기타파생결합사채)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="다올투자증권">다올투자증권</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span><span class="tagCom_chul_other" title="본 보고서는 철회되었으니 관련 철회신고서를 참고하시기 바람" style="cursor:default">철</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:58
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00151605', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="CBI 기업개황 새창" >
+										CBI
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900666"  onclick="openReportViewer('20221205900666'); return false;" id="r_20221205900666"
+									title="타법인주식및출자증권취득결정(자율공시)(종속회사의주요경영사항) 공시뷰어 새창" >타법인주식및출자증권취득결정(자율공시)(종속회사의주요경영사항)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="CBI">CBI</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00453488', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="다이나믹디자인 기업개황 새창" >
+										다이나믹디자인
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000423"  onclick="openReportViewer('20221205000423'); return false;" id="r_20221205000423"
+									title="주식등의대량보유상황보고서(약식) 공시뷰어 새창" >주식등의대량보유상황보고서(약식)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="제이앤에쿼티파트너스">제이앤에쿼티파트너스</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01142400', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이루다 기업개황 새창" >
+										이루다
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900669"  onclick="openReportViewer('20221205900669'); return false;" id="r_20221205900669"
+									title="기업설명회(IR)개최 공시뷰어 새창" >기업설명회(IR)개최
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이루다">이루다</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00156859', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="다올투자증권 기업개황 새창" >
+										다올투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000418"  onclick="openReportViewer('20221205000418'); return false;" id="r_20221205000418"
+									title="증권신고서(파생결합사채-주가연계파생결합사채) 공시뷰어 새창" >증권신고서(파생결합사채-주가연계파생결합사채)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="다올투자증권">다올투자증권</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span><span class="tagCom_chul_other" title="본 보고서는 철회되었으니 관련 철회신고서를 참고하시기 바람" style="cursor:default">철</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:57
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01276901', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔피 기업개황 새창" >
+										엔피
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000422"  onclick="openReportViewer('20221205000422'); return false;" id="r_20221205000422"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="위지윅스튜디오">위지윅스튜디오</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:56
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01309388', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="티라유텍 기업개황 새창" >
+										티라유텍
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900670"  onclick="openReportViewer('20221205900670'); return false;" id="r_20221205900670"
+									title="단일판매ㆍ공급계약체결(자율공시) 공시뷰어 새창" >단일판매ㆍ공급계약체결(자율공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="티라유텍">티라유텍</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:55
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00232007', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="상지카일룸 기업개황 새창" >
+										상지카일룸
+									</a>
+								</span>
+								<a href="http://www.sangji.co.kr" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900671"  onclick="openReportViewer('20221205900671'); return false;" id="r_20221205900671"
+									title="주주명부폐쇄기간또는기준일설정 공시뷰어 새창" >주주명부폐쇄기간또는기준일설정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="상지카일룸">상지카일룸</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:52
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00136721', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영증권 기업개황 새창" >
+										신영증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000413"  onclick="openReportViewer('20221205000413'); return false;" id="r_20221205000413"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신영증권">신영증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:52
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01141599', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="차백신연구소 기업개황 새창" >
+										차백신연구소
+									</a>
+								</span>
+								<a href="http://chavaccine.irpage.co.kr/" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900654"  onclick="openReportViewer('20221205900654'); return false;" id="r_20221205900654"
+									title="투자판단관련주요경영사항(재조합 대상포진 백신(CVI-VZV-001)의 안전성 및 유효성을 확인하기 위한 한국 식품의약품안전처(MFDS) 제1상 임상시험계획(IND) 승인) 공시뷰어 새창" >투자판단관련주요경영사항
+									
+		  							(재조합 대상포진 백신(CVI-VZV-001)의 안전성 및 유효성을 확인하기 위한 한국 식품의약품안전처(MFDS) 제1상 임상시험계획(IND) 승인)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="차백신연구소">차백신연구소</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:52
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01276901', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔피 기업개황 새창" >
+										엔피
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000410"  onclick="openReportViewer('20221205000410'); return false;" id="r_20221205000410"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="위지윅스튜디오">위지윅스튜디오</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:51
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00136721', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영증권 기업개황 새창" >
+										신영증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000407"  onclick="openReportViewer('20221205000407'); return false;" id="r_20221205000407"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신영증권">신영증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:49
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00136721', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영증권 기업개황 새창" >
+										신영증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000405"  onclick="openReportViewer('20221205000405'); return false;" id="r_20221205000405"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신영증권">신영증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:48
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00264635', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스넷 기업개황 새창" >
+										에스넷
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000404"  onclick="openReportViewer('20221205000404'); return false;" id="r_20221205000404"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="조승필">조승필</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:48
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00136721', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영증권 기업개황 새창" >
+										신영증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000403"  onclick="openReportViewer('20221205000403'); return false;" id="r_20221205000403"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신영증권">신영증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:48
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00812362', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="디에스앤엘 기업개황 새창" >
+										디에스앤엘
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000397"  onclick="openReportViewer('20221205000397'); return false;" id="r_20221205000397"
+									title="주요사항보고서(전환사채권발행결정) 공시뷰어 새창" >주요사항보고서(전환사채권발행결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="디에스앤엘">디에스앤엘</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:47
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00148610', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한화투자증권 기업개황 새창" >
+										한화투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000402"  onclick="openReportViewer('20221205000402'); return false;" id="r_20221205000402"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한화투자증권">한화투자증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:46
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00136721', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영증권 기업개황 새창" >
+										신영증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000401"  onclick="openReportViewer('20221205000401'); return false;" id="r_20221205000401"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신영증권">신영증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:45
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00136721', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영증권 기업개황 새창" >
+										신영증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000400"  onclick="openReportViewer('20221205000400'); return false;" id="r_20221205000400"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신영증권">신영증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:45
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00148610', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한화투자증권 기업개황 새창" >
+										한화투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000398"  onclick="openReportViewer('20221205000398'); return false;" id="r_20221205000398"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한화투자증권">한화투자증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:41
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01276327', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="위지윅스튜디오 기업개황 새창" >
+										위지윅스튜디오
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900652"  onclick="openReportViewer('20221205900652'); return false;" id="r_20221205900652"
+									title="타법인주식및출자증권처분결정 공시뷰어 새창" >타법인주식및출자증권처분결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="위지윅스튜디오">위지윅스튜디오</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+							
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:40
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_konex" title="코넥스시장" style="cursor:default">넥</span>
+									<a href="javascript:openCorpInfoNew('01290132', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이아이더뉴트리진 기업개황 새창" >
+										에이아이더뉴트리진
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000396"  onclick="openReportViewer('20221205000396'); return false;" id="r_20221205000396"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이동훈">이동훈</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:38
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00148610', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한화투자증권 기업개황 새창" >
+										한화투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000394"  onclick="openReportViewer('20221205000394'); return false;" id="r_20221205000394"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한화투자증권">한화투자증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:37
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00355548', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한국테크놀로지 기업개황 새창" >
+										한국테크놀로지
+									</a>
+								</span>
+								<a href="http://www.myht.co.kr" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000392"  onclick="openReportViewer('20221205000392'); return false;" id="r_20221205000392"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한국이노베이션">한국이노베이션</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:37
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00155124', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="평화홀딩스 기업개황 새창" >
+										평화홀딩스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000391"  onclick="openReportViewer('20221205000391'); return false;" id="r_20221205000391"
+									title="신탁계약해지결과보고서 공시뷰어 새창" >신탁계약해지결과보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="평화홀딩스">평화홀딩스</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:37
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00126371', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="삼성전기 기업개황 새창" >
+										삼성전기
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800647"  onclick="openReportViewer('20221205800647'); return false;" id="r_20221205800647"
+									title="최대주주등소유주식변동신고서 공시뷰어 새창" >최대주주등소유주식변동신고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="삼성전기">삼성전기</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:36
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00416414', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="넥스턴바이오 기업개황 새창" >
+										넥스턴바이오
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900638"  onclick="openReportViewer('20221205900638'); return false;" id="r_20221205900638"
+									title="불성실공시법인지정예고(공시번복) 공시뷰어 새창" >불성실공시법인지정예고
+									
+		  							(공시번복)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코스닥시장본부">코스닥시장본부</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:36
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01168143', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="골든센츄리 기업개황 새창" >
+										골든센츄리
+									</a>
+								</span>
+								<a href="http://jsj-wheel.co.kr/sub/sub02_01.php" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900644"  onclick="openReportViewer('20221205900644'); return false;" id="r_20221205900644"
+									title="불성실공시법인지정예고(공시번복) 공시뷰어 새창" >불성실공시법인지정예고
+									
+		  							(공시번복)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코스닥시장본부">코스닥시장본부</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:36
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00264635', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스넷 기업개황 새창" >
+										에스넷
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000390"  onclick="openReportViewer('20221205000390'); return false;" id="r_20221205000390"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="장병강">장병강</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:35
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00161408', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이비캐피탈 기업개황 새창" >
+										케이비캐피탈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000389"  onclick="openReportViewer('20221205000389'); return false;" id="r_20221205000389"
+									title="투자설명서(일괄신고) 공시뷰어 새창" >투자설명서(일괄신고)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="케이비캐피탈">케이비캐피탈</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:34
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00268002', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="세종텔레콤 기업개황 새창" >
+										세종텔레콤
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900640"  onclick="openReportViewer('20221205900640'); return false;" id="r_20221205900640"
+									title="주식소각결정 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>주식소각결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="세종텔레콤">세종텔레콤</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:34
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00164742', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="현대자동차 기업개황 새창" >
+										현대자동차
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800637"  onclick="openReportViewer('20221205800637'); return false;" id="r_20221205800637"
+									title="풍문또는보도에대한해명(미확정) 공시뷰어 새창" >풍문또는보도에대한해명(미확정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="현대자동차">현대자동차</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:33
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00148610', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한화투자증권 기업개황 새창" >
+										한화투자증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000388"  onclick="openReportViewer('20221205000388'); return false;" id="r_20221205000388"
+									title="증권발행실적보고서 공시뷰어 새창" >증권발행실적보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한화투자증권">한화투자증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:33
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00136721', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="신영증권 기업개황 새창" >
+										신영증권
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000387"  onclick="openReportViewer('20221205000387'); return false;" id="r_20221205000387"
+									title="투자설명서(일괄신고) 공시뷰어 새창" >투자설명서(일괄신고)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="신영증권">신영증권</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:33
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00264635', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스넷 기업개황 새창" >
+										에스넷
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000386"  onclick="openReportViewer('20221205000386'); return false;" id="r_20221205000386"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유홍준">유홍준</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:32
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00931153', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="경산지식산업개발 기업개황 새창" >
+										경산지식산업개발
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000385"  onclick="openReportViewer('20221205000385'); return false;" id="r_20221205000385"
+									title="임원의변동 공시뷰어 새창" >임원의변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="경산지식산업개발">경산지식산업개발</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00162461', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한화솔루션 기업개황 새창" >
+										한화솔루션
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000383"  onclick="openReportViewer('20221205000383'); return false;" id="r_20221205000383"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="윤지호">윤지호</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+							
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:30
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_konex" title="코넥스시장" style="cursor:default">넥</span>
+									<a href="javascript:openCorpInfoNew('01290132', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이아이더뉴트리진 기업개황 새창" >
+										에이아이더뉴트리진
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000382"  onclick="openReportViewer('20221205000382'); return false;" id="r_20221205000382"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="김수화">김수화</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:29
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01036367', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="프로스테믹스 기업개황 새창" >
+										프로스테믹스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000381"  onclick="openReportViewer('20221205000381'); return false;" id="r_20221205000381"
+									title="사업보고서 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>사업보고서
+									 (2020.12)
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="프로스테믹스">프로스테믹스</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_yeon_other" title="본 보고서는 연결부분을 포함한 것임" style="cursor:default">연</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:29
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00480950', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이아이디 기업개황 새창" >
+										이아이디
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800632"  onclick="openReportViewer('20221205800632'); return false;" id="r_20221205800632"
+									title="최대주주등소유주식변동신고서 공시뷰어 새창" >최대주주등소유주식변동신고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이아이디">이아이디</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:27
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00264635', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스넷 기업개황 새창" >
+										에스넷
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000380"  onclick="openReportViewer('20221205000380'); return false;" id="r_20221205000380"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="박효대">박효대</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:26
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01682740', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="IBKS제21호스팩 기업개황 새창" >
+										IBKS제21호스팩
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000378"  onclick="openReportViewer('20221205000378'); return false;" id="r_20221205000378"
+									title="투자설명서 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>투자설명서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="IBKS제21호스팩">IBKS제21호스팩</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+						
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:25
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00109693', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="DL 기업개황 새창" >
+										DL
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800601"  onclick="openReportViewer('20221205800601'); return false;" id="r_20221205800601"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" >단일판매ㆍ공급계약체결(자회사의 주요경영사항)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="DL">DL</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:25
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00264635', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스넷 기업개황 새창" >
+										에스넷
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000377"  onclick="openReportViewer('20221205000377'); return false;" id="r_20221205000377"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="박효대">박효대</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:24
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01682740', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="IBKS제21호스팩 기업개황 새창" >
+										IBKS제21호스팩
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000376"  onclick="openReportViewer('20221205000376'); return false;" id="r_20221205000376"
+									title="증권신고서(지분증권) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 유가증권 발행조건이 확정되어 제출된 것임" class="txtCB">[발행조건확정]</span>증권신고서(지분증권)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="IBKS제21호스팩">IBKS제21호스팩</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:24
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01033591', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="큐알티 기업개황 새창" >
+										큐알티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000369"  onclick="openReportViewer('20221205000369'); return false;" id="r_20221205000369"
+									title="주요사항보고서(무상증자결정) 공시뷰어 새창" >주요사항보고서(무상증자결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="큐알티">큐알티</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:23
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01033591', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="큐알티 기업개황 새창" >
+										큐알티
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900626"  onclick="openReportViewer('20221205900626'); return false;" id="r_20221205900626"
+									title="주권매매거래정지(무상증자) 공시뷰어 새창" >주권매매거래정지
+									
+		  							(무상증자)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코스닥시장본부">코스닥시장본부</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:23
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00877174', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엠브레인 기업개황 새창" >
+										엠브레인
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900623"  onclick="openReportViewer('20221205900623'); return false;" id="r_20221205900623"
+									title="주식매수선택권행사 공시뷰어 새창" >주식매수선택권행사
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엠브레인">엠브레인</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:22
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01682740', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="IBKS제21호스팩 기업개황 새창" >
+										IBKS제21호스팩
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000375"  onclick="openReportViewer('20221205000375'); return false;" id="r_20221205000375"
+									title="증권신고서(지분증권) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>증권신고서(지분증권)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="IBKS제21호스팩">IBKS제21호스팩</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:21
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00268251', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="다산네트웍스 기업개황 새창" >
+										다산네트웍스
+									</a>
+								</span>
+								<a href="http://www.dasannetworks.com/kr/irpr/m35.asp" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000368"  onclick="openReportViewer('20221205000368'); return false;" id="r_20221205000368"
+									title="주요사항보고서(회사합병결정) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 첨부내용이 변경되어 제출된 것임" class="txtCB">[첨부정정]</span>주요사항보고서(회사합병결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="다산네트웍스">다산네트웍스</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:21
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01036367', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="프로스테믹스 기업개황 새창" >
+										프로스테믹스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900616"  onclick="openReportViewer('20221205900616'); return false;" id="r_20221205900616"
+									title="감사보고서제출(2020사업연도) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>감사보고서제출
+									
+		  							(2020사업연도)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="프로스테믹스">프로스테믹스</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+							
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:20
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_konex" title="코넥스시장" style="cursor:default">넥</span>
+									<a href="javascript:openCorpInfoNew('00548519', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="큐러블 기업개황 새창" >
+										큐러블
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205600611"  onclick="openReportViewer('20221205600611'); return false;" id="r_20221205600611"
+									title="본점소재지변경 공시뷰어 새창" >본점소재지변경
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="큐러블">큐러블</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_konex_other" title="본 문서는 한국거래소 코넥스시장 소관임" style="cursor:default">넥</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:20
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00161356', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="파르나스호텔 기업개황 새창" >
+										파르나스호텔
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000374"  onclick="openReportViewer('20221205000374'); return false;" id="r_20221205000374"
+									title="임원의변동 공시뷰어 새창" >임원의변동
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="파르나스호텔">파르나스호텔</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_gong_other" title="본 공시사항은 공정거래위원회 소관임" style="cursor:default">공</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:19
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01067516', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="골프존 기업개황 새창" >
+										골프존
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000373"  onclick="openReportViewer('20221205000373'); return false;" id="r_20221205000373"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="KB자산운용">KB자산운용</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:19
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00148531', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="제이스코홀딩스 기업개황 새창" >
+										제이스코홀딩스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900625"  onclick="openReportViewer('20221205900625'); return false;" id="r_20221205900625"
+									title="신주인수권부사채(해외신주인수권부사채포함)발행후만기전사채취득 공시뷰어 새창" >신주인수권부사채(해외신주인수권부사채포함)발행후만기전사채취득
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="제이스코홀딩스">제이스코홀딩스</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+							
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:18
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_konex" title="코넥스시장" style="cursor:default">넥</span>
+									<a href="javascript:openCorpInfoNew('00976615', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="틸론 기업개황 새창" >
+										틸론
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000371"  onclick="openReportViewer('20221205000371'); return false;" id="r_20221205000371"
+									title="주주총회소집공고 공시뷰어 새창" >주주총회소집공고
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="틸론">틸론</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:18
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00475985', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="시너지이노베이션 기업개황 새창" >
+										시너지이노베이션
+									</a>
+								</span>
+								<a href="http://www.synergyinno.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000370"  onclick="openReportViewer('20221205000370'); return false;" id="r_20221205000370"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="시너지파트너스">시너지파트너스</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:17
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00162461', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한화솔루션 기업개황 새창" >
+										한화솔루션
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000367"  onclick="openReportViewer('20221205000367'); return false;" id="r_20221205000367"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이경섭">이경섭</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:16
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00957568', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스엘에너지 기업개황 새창" >
+										에스엘에너지
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900589"  onclick="openReportViewer('20221205900589'); return false;" id="r_20221205900589"
+									title="불성실공시법인지정(공시불이행 9건) 공시뷰어 새창" >불성실공시법인지정
+									
+		  							(공시불이행 9건)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코스닥시장본부">코스닥시장본부</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:16
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00164618', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="카나리아바이오 기업개황 새창" >
+										카나리아바이오
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000366"  onclick="openReportViewer('20221205000366'); return false;" id="r_20221205000366"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="김병성">김병성</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:16
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00957568', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스엘에너지 기업개황 새창" >
+										에스엘에너지
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900592"  onclick="openReportViewer('20221205900592'); return false;" id="r_20221205900592"
+									title="기타시장안내((주)에스엘바이오닉스 상장적격성 실질심사관련 안내) 공시뷰어 새창" >기타시장안내
+									
+		  							((주)에스엘바이오닉스 상장적격성 실질심사관련 안내)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코스닥시장본부">코스닥시장본부</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:16
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00957568', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에스엘에너지 기업개황 새창" >
+										에스엘에너지
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900608"  onclick="openReportViewer('20221205900608'); return false;" id="r_20221205900608"
+									title="주권매매거래정지(상장적격성 실질심사 대상 (사유발생)) 공시뷰어 새창" >주권매매거래정지
+									
+		  							(상장적격성 실질심사 대상 (사유발생))
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코스닥시장본부">코스닥시장본부</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+							
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:16
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_konex" title="코넥스시장" style="cursor:default">넥</span>
+									<a href="javascript:openCorpInfoNew('01290132', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이아이더뉴트리진 기업개황 새창" >
+										에이아이더뉴트리진
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000365"  onclick="openReportViewer('20221205000365'); return false;" id="r_20221205000365"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="김종철">김종철</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:16
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00186559', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="콤텍시스템 기업개황 새창" >
+										콤텍시스템
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800559"  onclick="openReportViewer('20221205800559'); return false;" id="r_20221205800559"
+									title="출자법인부도ㆍ해산사유등발생 공시뷰어 새창" >출자법인부도ㆍ해산사유등발생
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="콤텍시스템">콤텍시스템</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:15
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01047840', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미스터블루 기업개황 새창" >
+										미스터블루
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900615"  onclick="openReportViewer('20221205900615'); return false;" id="r_20221205900615"
+									title="주주명부폐쇄기간또는기준일설정 공시뷰어 새창" >주주명부폐쇄기간또는기준일설정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="미스터블루">미스터블루</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:14
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01187148', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케어랩스 기업개황 새창" >
+										케어랩스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000364"  onclick="openReportViewer('20221205000364'); return false;" id="r_20221205000364"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="시티랩스">시티랩스</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:13
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01047840', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미스터블루 기업개황 새창" >
+										미스터블루
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000355"  onclick="openReportViewer('20221205000355'); return false;" id="r_20221205000355"
+									title="주요사항보고서(무상증자결정) 공시뷰어 새창" >주요사항보고서(무상증자결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="미스터블루">미스터블루</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:13
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01047840', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="미스터블루 기업개황 새창" >
+										미스터블루
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900607"  onclick="openReportViewer('20221205900607'); return false;" id="r_20221205900607"
+									title="주권매매거래정지(무상증자) 공시뷰어 새창" >주권매매거래정지
+									
+		  							(무상증자)
+								</a>
+							</td>
+							<td class="tL ellipsis" title="코스닥시장본부">코스닥시장본부</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00151605', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="CBI 기업개황 새창" >
+										CBI
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900594"  onclick="openReportViewer('20221205900594'); return false;" id="r_20221205900594"
+									title="유상증자결정(자율공시)(종속회사의주요경영사항) 공시뷰어 새창" >유상증자결정(자율공시)(종속회사의주요경영사항)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="CBI">CBI</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00186559', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="콤텍시스템 기업개황 새창" >
+										콤텍시스템
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800599"  onclick="openReportViewer('20221205800599'); return false;" id="r_20221205800599"
+									title="타법인주식및출자증권취득결정 공시뷰어 새창" >타법인주식및출자증권취득결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="콤텍시스템">콤텍시스템</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00151605', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="CBI 기업개황 새창" >
+										CBI
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900584"  onclick="openReportViewer('20221205900584'); return false;" id="r_20221205900584"
+									title="타법인주식및출자증권취득결정(자율공시) 공시뷰어 새창" >타법인주식및출자증권취득결정(자율공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="CBI">CBI</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+								
+							
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:12
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00232089', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="바이온 기업개황 새창" >
+										바이온
+									</a>
+								</span>
+								<a href="http://www.by-on.co.kr/company/overview.php" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900610"  onclick="openReportViewer('20221205900610'); return false;" id="r_20221205900610"
+									title="전환사채(해외전환사채포함)발행후만기전사채취득 공시뷰어 새창" >전환사채(해외전환사채포함)발행후만기전사채취득
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="바이온">바이온</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+						
+							
+							
+								
+							
+						
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:11
+							</td>
+							<td class="tL">
+							    <span class="innerWrapTag">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00475985', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="시너지이노베이션 기업개황 새창" >
+										시너지이노베이션
+									</a>
+								</span>
+								<a href="http://www.synergyinno.com" target="new">
+										<span class="tagCom_ir" title="기업 IR페이지 연결">IR</span>
+									</a>
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000363"  onclick="openReportViewer('20221205000363'); return false;" id="r_20221205000363"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="구자형">구자형</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+							
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:10
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_konex" title="코넥스시장" style="cursor:default">넥</span>
+									<a href="javascript:openCorpInfoNew('00978075', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="렌딩머신 기업개황 새창" >
+										렌딩머신
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000358"  onclick="openReportViewer('20221205000358'); return false;" id="r_20221205000358"
+									title="주요사항보고서(유상증자결정) 공시뷰어 새창" >주요사항보고서(유상증자결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="렌딩머신">렌딩머신</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:10
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01456011', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="디어유 기업개황 새창" >
+										디어유
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000362"  onclick="openReportViewer('20221205000362'); return false;" id="r_20221205000362"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이학희">이학희</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:09
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00164618', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="카나리아바이오 기업개황 새창" >
+										카나리아바이오
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000361"  onclick="openReportViewer('20221205000361'); return false;" id="r_20221205000361"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="세종메디칼">세종메디칼</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:09
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01263022', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="BGF리테일 기업개황 새창" >
+										BGF리테일
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000360"  onclick="openReportViewer('20221205000360'); return false;" id="r_20221205000360"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="장영식">장영식</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:09
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01524093', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="DL이앤씨 기업개황 새창" >
+										DL이앤씨
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800588"  onclick="openReportViewer('20221205800588'); return false;" id="r_20221205800588"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" >단일판매ㆍ공급계약체결
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="DL이앤씨">DL이앤씨</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+						
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:08
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00164636', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="HDC 기업개황 새창" >
+										HDC
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800554"  onclick="openReportViewer('20221205800554'); return false;" id="r_20221205800554"
+									title="단일판매ㆍ공급계약체결 공시뷰어 새창" >단일판매ㆍ공급계약체결(자회사의 주요경영사항)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="HDC">HDC</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+							
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:08
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_konex" title="코넥스시장" style="cursor:default">넥</span>
+									<a href="javascript:openCorpInfoNew('01290132', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이아이더뉴트리진 기업개황 새창" >
+										에이아이더뉴트리진
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000359"  onclick="openReportViewer('20221205000359'); return false;" id="r_20221205000359"
+									title="주식등의대량보유상황보고서(약식) 공시뷰어 새창" >주식등의대량보유상황보고서(약식)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엠로">엠로</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:07
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00268002', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="세종텔레콤 기업개황 새창" >
+										세종텔레콤
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900590"  onclick="openReportViewer('20221205900590'); return false;" id="r_20221205900590"
+									title="주식소각결정 공시뷰어 새창" >주식소각결정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="세종텔레콤">세종텔레콤</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:07
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('01573974', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="엔에이치스팩20호 기업개황 새창" >
+										엔에이치스팩20호
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205900548"  onclick="openReportViewer('20221205900548'); return false;" id="r_20221205900548"
+									title="주주명부폐쇄기간또는기준일설정 공시뷰어 새창" >주주명부폐쇄기간또는기준일설정
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="엔에이치스팩20호">엔에이치스팩20호</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:06
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00188089', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="한섬 기업개황 새창" >
+										한섬
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205800597"  onclick="openReportViewer('20221205800597'); return false;" id="r_20221205800597"
+									title="기업설명회(IR)개최(안내공시) 공시뷰어 새창" >기업설명회(IR)개최(안내공시)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="한섬">한섬</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_kospi_other" title="본 공시사항은 한국거래소 유가증권시장본부 소관임" style="cursor:default">유</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:05
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01263022', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="BGF리테일 기업개황 새창" >
+										BGF리테일
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000356"  onclick="openReportViewer('20221205000356'); return false;" id="r_20221205000356"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이윤성">이윤성</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:05
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00469799', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이엔플러스 기업개황 새창" >
+										이엔플러스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000345"  onclick="openReportViewer('20221205000345'); return false;" id="r_20221205000345"
+									title="주요사항보고서(전환사채권발행결정) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>주요사항보고서(전환사채권발행결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이엔플러스">이엔플러스</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:05
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00844936', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="BNK캐피탈 기업개황 새창" >
+										BNK캐피탈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000354"  onclick="openReportViewer('20221205000354'); return false;" id="r_20221205000354"
+									title="투자설명서(일괄신고) 공시뷰어 새창" >투자설명서(일괄신고)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="BNK캐피탈">BNK캐피탈</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+							
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:04
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+									<a href="javascript:openCorpInfoNew('00838005', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="서진시스템 기업개황 새창" >
+										서진시스템
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000353"  onclick="openReportViewer('20221205000353'); return false;" id="r_20221205000353"
+									title="주식등의대량보유상황보고서(일반) 공시뷰어 새창" >주식등의대량보유상황보고서(일반)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="전동규">전동규</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:03
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00469799', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이엔플러스 기업개황 새창" >
+										이엔플러스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000341"  onclick="openReportViewer('20221205000341'); return false;" id="r_20221205000341"
+									title="주요사항보고서(전환사채권발행결정) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>주요사항보고서(전환사채권발행결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이엔플러스">이엔플러스</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:03
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00469799', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="이엔플러스 기업개황 새창" >
+										이엔플러스
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000335"  onclick="openReportViewer('20221205000335'); return false;" id="r_20221205000335"
+									title="주요사항보고서(전환사채권발행결정) 공시뷰어 새창" ><span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>주요사항보고서(전환사채권발행결정)
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="이엔플러스">이엔플러스</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:02
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('01263022', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="BGF리테일 기업개황 새창" >
+										BGF리테일
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000351"  onclick="openReportViewer('20221205000351'); return false;" id="r_20221205000351"
+									title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창" >임원ㆍ주요주주특정증권등소유상황보고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="유선웅">유선웅</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+							
+						
+						
+						
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:02
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_kospi" title="유가증권시장" style="cursor:default">유</span>
+									<a href="javascript:openCorpInfoNew('00858364', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="BNK금융지주 기업개황 새창" >
+										BNK금융지주
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000350"  onclick="openReportViewer('20221205000350'); return false;" id="r_20221205000350"
+									title="일괄신고서 공시뷰어 새창" >일괄신고서
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="BNK금융지주">BNK금융지주</td>
+							<td>2022.12.05</td>
+							<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:02
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00844936', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="BNK캐피탈 기업개황 새창" >
+										BNK캐피탈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000349"  onclick="openReportViewer('20221205000349'); return false;" id="r_20221205000349"
+									title="일괄신고추가서류 공시뷰어 새창" >일괄신고추가서류
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="BNK캐피탈">BNK캐피탈</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+						
+						
+						
+						
+							
+						
+					
+					
+					
+					
+					
+					
+						<tr>
+							<td>
+								
+								
+								
+								17:01
+							</td>
+							<td class="tL">
+							    <span class="innerWrap">
+							    	<span class="tagCom_etc"  title="기타법인" style="cursor:default">기</span>
+									<a href="javascript:openCorpInfoNew('00161408', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="케이비캐피탈 기업개황 새창" >
+										케이비캐피탈
+									</a>
+								</span>
+								
+							</td>
+							<td class="tL">
+								<a href="/dsaf001/main.do?rcpNo=20221205000348"  onclick="openReportViewer('20221205000348'); return false;" id="r_20221205000348"
+									title="일괄신고추가서류 공시뷰어 새창" >일괄신고추가서류
+									
+		  							
+								</a>
+							</td>
+							<td class="tL ellipsis" title="케이비캐피탈">케이비캐피탈</td>
+							<td>2022.12.05</td>
+							<td></td>
+						</tr>
+					
+					
+					
+					
+					
+					
+					
+					
+				
+				</tbody>
+			
+			
+		
+		<input type="hidden" name="totalCnt" id="totalCnt" value="446">
+	</table>
+</div>
+
+	<div class = "psWrap">
+		<div class="pageInfo">[1/5] [총 446건]</div>
+		
+		<div class="pageSkip">
+			<ul>
+				<li class="on"><a onClick="javascript:void(0);">1</a></li><li><a href="javascript:search(2);">2</a></li><li><a href="javascript:search(3);">3</a></li><li><a href="javascript:search(4);">4</a></li><li><a href="javascript:search(5);">5</a></li>
+
+			</ul>
+		</div>
+	</div>
+
