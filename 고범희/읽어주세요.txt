@@ -50,7 +50,7 @@
         └ "databased.py"             : DB에 들어있는 일, 분 단위 데이터와 실시간 뉴스 데이터를 가져오는 코드입니다.
         └ "datahap.py"               : 실시간 분 단위 데이터와 지표 데이터, 실시간 뉴스 라벨링 데이터를 하나로 합치는 코드입니다.
         └ "jipyo.py"                 : 일 단위 데이터(1년치 데이터 + 어제 날짜 기준으로 가져온 일 단위 데이터)를 전부 가져와 지표 데이터로 만드는 코드입니다.
-        └ "mainLinux.py"             : 모든 .py 코드 파일들을 실행하는 메인 코드입니다. -> 프로젝트 실행시 이 코드를 실행하세요. 그리고 강화학습 코드(reward 기입)는 미완성이라 없습니다.ㅠㅠ
+        └ "mainLinux.py"             : 모든 .py 코드 파일들을 실행하는 메인 코드입니다. -> 프로젝트 실행시 이 코드를 실행하세요. 그리고 강화학습 코드(reward 기입)는 미완성입니다.ㅠㅠ
         └ "newslabel.py"             : 실시간 뉴스 내용을 긍정, 부정으로 체점하는 코드입니다. -> 자연어 처리
         └ "reinforcementLearning.py" : 실시간 데이터를 LSTM 모델에 predict하는 코드입니다.
         └ "subpub64bit.py"           : 32bit 환경으로부터 메세지를 수신 받고, 주식 매수, 매도, 홀드 명령을 32bit로 회신하는 코드입니다.
@@ -75,4 +75,29 @@
 
 
 
-######## 프로젝트 제작을 함께한 모든 조원분들 고생했어요~^^
+[라이브러리 버전]
+python - 3.10.11
+beautifulsoup4 - 4.12.2
+ipykernel - 6.23.2
+numpy - 1.24.3
+pandas - 2.0.2
+pymysql - 1.1.0
+redis - 4.6.0
+ta-lib - 0.4.24
+tqdm - 4.65.0
+jupyter - 1.0.0
+keras - 2.12.0
+matplotlib - 3.7.1
+notebook - 6.5.4
+scikit-learn - 1.2.2
+scipy - 1.10.1
+seaborn - 0.12.2
+tensorflow - 2.12.0
+tensorflow-estimator - 2.12.0
+tensorflow-intel - 2.12.0
+tensorflow-io-gcs-filesystem - 0.31.0
+torch - 2.0.1+cu117
+torchaudio - 2.0.2+cu117
+torchvision - 0.15.2+cu117
+transformers - 4.30.2
+xformers - 0.0.20
