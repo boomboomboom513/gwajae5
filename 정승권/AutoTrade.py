@@ -9,7 +9,6 @@ from urllib.request import urlopen
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options 
 
-#123
 
 import requests
 def post_message(token, channel, text):
