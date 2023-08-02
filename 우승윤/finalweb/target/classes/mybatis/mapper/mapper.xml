@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- StockMapper.xml -->
+<mapper namespace="com.trading.mapper.TradingMapper">
+	<!-- <select id="SelectAllList" resultType="hashmap"> SELECT * FROM stock 
+		</select> -->
+	<select id="minlist" resultType="hashmap">
+		SELECT * FROM minstockdata
+	</select>
+	<select id="daylist" resultType="hashmap">
+		SELECT * FROM daystockdata
+	</select>
+	<select id="stockji" resultType="hashmap">
+	SELECT 
+	    ((SELECT money FROM stockrecord ORDER BY id DESC LIMIT 1) +
+	     (SELECT endprice FROM minstockdata ORDER BY id DESC LIMIT 1) * 
+	     (SELECT COUNT(*) FROM stockrecord WHERE tradeaction = '매수') - 
+	     (SELECT COUNT(*) FROM stockrecord WHERE tradeaction = '매도')) - 
+	    (SELECT money FROM stockrecord ORDER BY id LIMIT 1) AS result;
+	</select>
+	<select id="newsdata" resultType="hashmap">
+		SELECT * FROM newsdata ORDER BY
+		date DESC LIMIT 10
+	</select>
+	<select id="Todaylist" resultType="hashmap">
+		SELECT *
+		FROM minstockdata
+		WHERE DATE_FORMAT(NOW(), '%Y-%m-%d') = DATE_FORMAT(date, '%Y-%m-%d')
+		ORDER BY date DESC
+		LIMIT 1
+	</select>
+	<!-- 전날 꺼 -->
+	<select id="lastlist" resultType="hashmap">
+		SELECT *
+		FROM minstockdata
+		WHERE
+		id = (
+		SELECT MAX(id)
+		FROM minstockdata
+		)
+	</select>
+</mapper>
+
+
