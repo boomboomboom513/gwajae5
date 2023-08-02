@@ -22,7 +22,9 @@ class upload:
         
         chtl = []
         for i in range(loadMinStockDataCp.shape[0]):
-            changeTime = dt.datetime(int(str(loadMinStockDataCp['날짜'][i])[:4]), int(str(loadMinStockDataCp['날짜'][i])[4:6]), int(str(loadMinStockDataCp['날짜'][i])[6:8]), int(str(loadMinStockDataCp['시간'][i] // 100)), int(str(loadMinStockDataCp['시간'][i] % 100)))
+            changeTime = dt.datetime(int(str(loadMinStockDataCp['날짜'][i])[:4]), int(str(loadMinStockDataCp['날짜'][i])[4:6]), 
+                                     int(str(loadMinStockDataCp['날짜'][i])[6:8]), int(str(loadMinStockDataCp['시간'][i] // 100)), 
+                                     int(str(loadMinStockDataCp['시간'][i] % 100)))
             chtl.append(changeTime.strftime('%Y-%m-%d %H:%M'))
         loadMinStockDataCp['날짜'] = chtl
 
@@ -39,7 +41,7 @@ class upload:
                 cur.execute(sql, (loadMinStockDataCp['종목코드'][i],loadMinStockDataCp['종목명'][i],loadMinStockDataCp['날짜'][i], loadMinStockDataCp['시가'][i]
                                 ,loadMinStockDataCp['고가'][i],loadMinStockDataCp['저가'][i],loadMinStockDataCp['종가'][i],loadMinStockDataCp['거래량'][i]))
             conn.commit()
-            print('[시스템]:당일 현재 시간 '+str(self.name)+' 종목 분 단위 주식 데이터 마리아DB에 업로드 완료!')
+            print('[시스템]:당일 현재 시간 '+str(self.name)+' 종목 분 단위 주식 데이터 마리아DB에 업로드 완료!')    
         else:
             print('[시스템]:당일 현재 시간 '+str(self.name)+' 종목의 분 단위 주식 거래된 데이터가 없어서 마리아DB에 업로드 불가!')
 
@@ -49,7 +51,8 @@ class upload:
 
         chtl = []
         for i in range(loadDayStockDataCp.shape[0]):
-            changeTime = dt.datetime(int(str(loadDayStockDataCp['날짜'][i])[:4]), int(str(loadDayStockDataCp['날짜'][i])[4:6]), int(str(loadDayStockDataCp['날짜'][i])[6:8]))
+            changeTime = dt.datetime(int(str(loadDayStockDataCp['날짜'][i])[:4]), int(str(loadDayStockDataCp['날짜'][i])[4:6]),
+                                      int(str(loadDayStockDataCp['날짜'][i])[6:8]))
             chtl.append(changeTime.strftime('%Y-%m-%d %H:%M'))
         loadDayStockDataCp['날짜'] = chtl
 
@@ -102,9 +105,12 @@ class upload:
 
         print('[시스템]:전날까지의 '+str(self.name)+' 종목의 지표 데이터 마리아DB에 업로드 중...')
         for i in tqdm(range(loadJipyoData.shape[0])):
-            sql2 = 'insert into stockjipyo'+' (code,name,date,sma5,sma20,upper,mavg,lower,rsi,macd,aroonup,aroondn)'+' values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);'
-            cur.execute(sql2, (loadJipyoData['종목코드'][i],loadJipyoData['종목명'][i],loadJipyoData['날짜'][i],loadJipyoData['SMA5'][i],loadJipyoData['SMA20'][i],loadJipyoData['UPPER'][i]\
-                                 ,loadJipyoData['MAVG'][i],loadJipyoData['LOWER'][i],loadJipyoData['RSI'][i],loadJipyoData['MACD'][i],loadJipyoData['AROONUP'][i],loadJipyoData['AROONDN'][i]))
+            sql2 = 'insert into stockjipyo'+' (code,name,date,sma5,sma20,upper,mavg,lower,rsi,macd,aroonup,aroondn)'
+            +' values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);'
+            cur.execute(sql2, (loadJipyoData['종목코드'][i],loadJipyoData['종목명'][i],loadJipyoData['날짜'][i],
+                               loadJipyoData['SMA5'][i],loadJipyoData['SMA20'][i],loadJipyoData['UPPER'][i]\
+                                 ,loadJipyoData['MAVG'][i],loadJipyoData['LOWER'][i],loadJipyoData['RSI'][i],
+                                 loadJipyoData['MACD'][i],loadJipyoData['AROONUP'][i],loadJipyoData['AROONDN'][i]))
         conn.commit()
         print('[시스템]:전날까지의 '+str(self.name)+' 종목 지표 데이터 마리아DB에 업로드 완료!')
 

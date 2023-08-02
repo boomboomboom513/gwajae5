@@ -32,7 +32,7 @@ class jipyo:
             , 'RSI':RSI
             , 'MACD':macd
             , 'AROONUP':ar_up
-            , 'AROONDN':ar_dn
+            , 'AROONDN':ar_dnx
         })
         jipyoDf['SMA5'] = jipyoDf['SMA5'].astype('float64')
 
