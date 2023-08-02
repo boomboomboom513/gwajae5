@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 import time
-import argparse
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -13,7 +12,6 @@ import jipyo
 import newslabel
 import datahap
 import reinforcementLearning
-import data_manager
 
 stockNameList = ['루닛']
 stockCodeList = ['328130']
@@ -22,32 +20,6 @@ database = ['34.64.50.135','root','P@ssw0rd6388','stockdata']
 jong = []
 actions = []
 lock = False
-
-# parser = argparse.ArgumentParser()
-# args = parser.parse_args()
-
-# if args.rl_method == 'a3c':
-#     learner = A3CLearner(**{
-#         **common_params, 
-#         'list_stock_code': list_stock_code, 
-#         'list_chart_data': list_chart_data, 
-#         'list_training_data': list_training_data,
-#         'list_min_trading_price': list_min_trading_price, 
-#         'list_max_trading_price': list_max_trading_price,
-#         'value_network_path': value_network_path, 
-#         'policy_network_path': policy_network_path})
-
-# assert learner is not None
-
-# if args.mode in ['train', 'test', 'update']:
-#     learner.run(learning=learning)
-#     if args.mode in ['train', 'update']:
-#         learner.save_models()
-# elif args.mode == 'predict':
-#     learner.predict()
-
-
-
 
 while True:
     timeNow = dt.datetime.now()
@@ -88,3 +60,4 @@ while True:
         print('[시스템]:현재 주식 거래 가능한 시간이 아닙니다. 현재시간 : '+str(timeNow.hour)+'시 '+str(timeNow.minute)+'분')
         time.sleep(1)
         continue
+
