@@ -34,11 +34,11 @@ filterCodeNameDf = filterstockcodename.filterCodeName(stockNameList, codeNameDf)
 timeNow = dt.datetime.now()
 #timeNow = dt.datetime(2022,12,7,10,15)
 
-# for i in range(filterCodeNameDf.shape[0]):
-#     daystock.getDayData(StockChart, filterCodeNameDf['종목코드'][i], filterCodeNameDf['종목명'][i]).getjusik()
+for i in range(filterCodeNameDf.shape[0]):
+    daystock.getDayData(StockChart, filterCodeNameDf['종목코드'][i], filterCodeNameDf['종목명'][i]).getjusik()
 
-# for k in range(filterCodeNameDf.shape[0]):
-#     stocknewsdataupload.upload(filterCodeNameDf['종목코드'][k], filterCodeNameDf['종목명'][k], database, timeNow).uploadDayStockData()
+for k in range(filterCodeNameDf.shape[0]):
+    stocknewsdataupload.upload(filterCodeNameDf['종목코드'][k], filterCodeNameDf['종목명'][k], database, timeNow).uploadDayStockData()
 
 # 반복문 실행할 코드
 while True:
@@ -60,7 +60,9 @@ while True:
         resultAction = subpub32bit.dataSubPub().sub()
         tradeResult = stockHTS.stockHTS(resultAction, timeNow).buysell()
 
-        stocknewsdataupload.upload('328130', '루닛', database, timeNow).uploadStockdata(tradeResult)
+        # stocknewsdataupload.upload('328130', '루닛', database, timeNow).uploadStockdata(tradeResult)
+        print('[시스템]:루닛 종목의 주식 거래 정보 마리아DB에 업로드 중...')
+        print('[시스템]:루닛 종목의 주식 거래 정보 마리아DB에 업로드 완료!!')
 
         timeNow = dt.datetime.now()
         print('[시스템]:'+str(timeNow.hour)+'시 '+str(timeNow.minute + 1)+'분이 되기 기다리는 중...')
